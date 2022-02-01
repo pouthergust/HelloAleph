@@ -1,0 +1,20 @@
+.l-details h2 {
+    font-size: 1.1rem
+}
+
+.l-details__container {
+    border-radius: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    margin: auto;
+}
+
+.l-details__wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+.l-details__interest::first-letter {
+    color: var(--txt);
+    font-weight: 600;
+}

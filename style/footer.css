@@ -1,0 +1,9 @@
+.l-footer { }
+
+section.l-footer__container {
+    display: flex;
+    border-radius: 0 0 10px 10px;
+    border-top: none;
+    background-color: #fff;
+    justify-content: center;
+}

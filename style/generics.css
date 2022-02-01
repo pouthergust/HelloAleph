@@ -1,0 +1,4 @@
+.--pri { color: var(--txt); }
+strong { font-weight: 500; }
+h2 { font-weight: 600; }
+a { font-weight: 500; color: var(--txt); }
